@@ -1,3 +1,5 @@
+import numpy as np
+
 def main():
 
     #Floating number calc
